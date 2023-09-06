@@ -1,0 +1,64 @@
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\TodoAPI.exe
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\TodoAPI.deps.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\TodoAPI.runtimeconfig.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\TodoAPI.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\TodoAPI.pdb
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.AssemblyReference.cache
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfo.cs
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CopyComplete
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\refint\TodoAPI.dll
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.pdb
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\TodoAPI.genruntimeconfig.cache
+C:\Users\phgss\OneDrive\Máy tính\dotnet core\TodoAPI\TodoAPI\obj\Debug\net6.0\ref\TodoAPI.dll
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\appsettings.Development.json
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\appsettings.json
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\TodoAPI.exe
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\TodoAPI.deps.json
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\TodoAPI.runtimeconfig.json
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\TodoAPI.dll
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\TodoAPI.pdb
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AOTS\TodoAPI-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.csproj.AssemblyReference.cache
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.AssemblyInfoInputs.cache
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.AssemblyInfo.cs
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.csproj.CoreCompileInputs.cache
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoAPI.props
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\scopedcss\bundle\TodoAPI.styles.css
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.csproj.CopyComplete
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.dll
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\refint\TodoAPI.dll
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.pdb
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\TodoAPI.genruntimeconfig.cache
+D:\AOTS\TodoAPI-main\obj\Debug\net6.0\ref\TodoAPI.dll
